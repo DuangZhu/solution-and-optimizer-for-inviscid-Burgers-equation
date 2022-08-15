@@ -28,12 +28,12 @@ The red line represents the exact solution, while the blue 'x' represents the re
 
 - The result of SVV in 0.9s
 
-![out-0090](.\result\SVV\out-0090.png)
+![](result/SVV/out-0090.png)
 
 - The result of SVV with optimizer in 0.9s
 
-![out-0090](.\result\SVV with optimizer\out-0090.png)
+![](result/SVV with optimizer/out-0090.png)
 
 - The result of deepxde in 0.9s
 
-![out-0090](.\result\DL with optimizer\out-0090.png)
+![](result/DL with optimizer/out-0090.png)
