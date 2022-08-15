@@ -16,8 +16,24 @@ This is a code for solving the inviscid Burgers’ equation and its automatic op
 
 (4) method_DL.ipynb
 
-This is a code for solving the inviscid Burgers’ equation and its automatic optimizer. We employ DL(The neural network) to solve the PDE problem. While training, we use the Adam optimizer to update parameters and find the smallest error between the exact resolution and the network's output.
+This is a code for solving the inviscid Burgers’ equation and its automatic optimizer. We employ DL (deepxde) to solve the PDE problem. While training, we use the Adam optimizer to update parameters and find the smallest error between the exact resolution and the network's output.
 
 (5) result
 
 This is the folder where the output of the code is stored.
+
+
+
+The red line represents the exact solution, while the blue 'x' represents the result.
+
+- The result of SVV in 0.9s
+
+![out-0090](D:\some code\枪手项目01\solution and optimizer for  inviscid Burgers’ equation\result\SVV\out-0090.png)
+
+- The result of SVV with optimizer in 0.9s
+
+![out-0090](D:\some code\枪手项目01\solution and optimizer for  inviscid Burgers’ equation\result\SVV with optimizer\out-0090.png)
+
+- The result of deepxde in 0.9s
+
+![out-0090](D:\some code\枪手项目01\solution and optimizer for  inviscid Burgers’ equation\result\DL with optimizer\out-0090.png)
