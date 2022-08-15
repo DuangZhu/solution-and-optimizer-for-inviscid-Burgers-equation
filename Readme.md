@@ -28,12 +28,12 @@ The red line represents the exact solution, while the blue 'x' represents the re
 
 - The result of SVV in 0.9s
 
-![out-0090](D:\some code\枪手项目01\solution and optimizer for  inviscid Burgers’ equation\result\SVV\out-0090.png)
+![out-0090](.\result\SVV\out-0090.png)
 
 - The result of SVV with optimizer in 0.9s
 
-![out-0090](D:\some code\枪手项目01\solution and optimizer for  inviscid Burgers’ equation\result\SVV with optimizer\out-0090.png)
+![out-0090](.\result\SVV with optimizer\out-0090.png)
 
 - The result of deepxde in 0.9s
 
-![out-0090](D:\some code\枪手项目01\solution and optimizer for  inviscid Burgers’ equation\result\DL with optimizer\out-0090.png)
+![out-0090](.\result\DL with optimizer\out-0090.png)
